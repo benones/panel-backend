@@ -1,4 +1,4 @@
-import app from './app/app';
+import app from './app';
 
 console.log('Server is works port:3333');
 
